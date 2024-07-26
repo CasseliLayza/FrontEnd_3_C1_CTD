@@ -15,7 +15,7 @@ Este proyecto es un ejemplo básico de cómo configurar y trabajar con React uti
 
     ```bash
     git clone https://github.com/CasseliLayza/FrontEnd_3_C1_CTD.git
-    cd react-vite-componentes-basicos
+    cd FrontEnd_3_C1_CTD
     ```
 
 2. Instala las dependencias:
