@@ -1,0 +1,9 @@
+.contenerdor-imagen{
+    box-shadow: 0 15px 13px 10px rgba(74, 54, 228, 0.77);
+}
+
+
+.contenerdor-imagen:hover{
+    box-shadow: 0 15px 13px 10px rgba(232, 237, 192, 0.77);
+
+}
